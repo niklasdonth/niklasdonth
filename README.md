@@ -3,7 +3,7 @@
   I am deeply interested in how and why people form preferences and opinions in the political space and subsequently their votechoices.
   Furthermore, I have a keen interest in the strategic intersection between party and voter behaviour.
 - 🌱 I’m currently focusing on growing as a scientist by learning and employing causal inference methods derived from the counterfactual causal model.
-      Methodologically, I am also interested in the application of Bayesian statistics and ways to deal with the differential item functioning in the perception of political stimuli.
+      Methodologically, I am also interested in the application of Bayesian statistics and Causal Maschine Learning Methods like the DoubleML framework.
 - 📫 The best way to reach me is via my mail niklas.donth@sowi.uni-stuttgart.de.
 
 <!---
