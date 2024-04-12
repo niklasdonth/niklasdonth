@@ -4,7 +4,7 @@
   Furthermore, I have a keen interest in the strategic intersection between party strategies and voter behaviour.
 In my PhD project, I focus on the role of Left-Authoritarian voters in the electoral competition between Social Democracy and the Populist Radical Right in Europe.  
 - 🌱 I’m currently focusing on growing as a scientist by learning and employing causal inference methods derived from the counterfactual causal model.
-      Methodologically, I am also interested in the application of Bayesian statistics and Causal Maschine Learning Methods.
+      Methodologically, I am also interested in the application of Bayesian statistics and Causal Machine Learning Methods.
 - 📫 The best way to reach me is via my mail niklas.donth@sowi.uni-stuttgart.de.
 
 <!---
